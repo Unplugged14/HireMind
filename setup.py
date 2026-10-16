@@ -5,6 +5,6 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     install_requires=[], # Dependencies are managed in requirements.txt
-    author="Nishit Kumar",
+    author="Anish Raja",
     description="HR Optimization with Multi-Agent System",
 )
